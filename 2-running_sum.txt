@@ -1,0 +1,7 @@
+Let N represent the sum of numbers
+ LET N = 0
+FOR each positive number
+SET N =N + 1
+IF negative number encountered 
+Print N
+

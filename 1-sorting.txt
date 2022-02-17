@@ -1,0 +1,5 @@
+Numbers a = 9, b=12 , c=7
+IF a<b THEN b is the greatest of them
+IF b>c THEN b is the greatest of them
+IF a>c THEN a is the greatest of them
+PRINT in descending b,a,c

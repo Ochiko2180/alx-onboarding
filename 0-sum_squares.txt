@@ -1,0 +1,7 @@
+Let N represent the sum of squares
+ LET N = 0
+FOR each pair of square 
+SET N =N + 2
+IF one pair remains THEN
+SET N = N+1
+
